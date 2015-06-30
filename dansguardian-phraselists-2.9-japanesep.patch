@@ -1,0 +1,119 @@
+diff -rup dansguardian-phraselists-2.9/phraselists/pornography/weighted_japanese dansguardian-phraselists-2.9-japanesep/phraselists/pornography/weighted_japanese
+--- dansguardian-phraselists-2.9/phraselists/pornography/weighted_japanese	2008-08-25 17:08:36.000000000 -0400
++++ dansguardian-phraselists-2.9-japanesep/phraselists/pornography/weighted_japanese	2013-05-25 05:18:01.629692861 -0400
+@@ -23,14 +23,16 @@
+ #######################################
+ 
+ #<Shift_JIS><1>	#CharSet Identifier for Troubleshooting
++#
++# breast, ass, woman, beauty, milk, nude
+ 
+ <­—><50> #little woman (girl)
+-<—><10> #woman
+-<”ü><5> #beauty
+-<—‡><10> #nude
++#<—><10> #woman
++#<”ü><5> #beauty
++#<—‡><10> #nude
+ <—‡‘Ì><20> #nude
+ <g‘Ì><10> #body
+-<‹¹><10> breast
++#<‹¹><10> breast
+ <­™X•s‹X><50> #children not allowed
+ <ŽÊ^WE‰æW><50> #fetish photos
+ 
+@@ -38,7 +40,7 @@
+ <18ÎˆÈã><100> #18 or older
+ <18ÎˆÈã><200>
+ <ƒIƒiƒj[><100> #masturbation
+-<“û><20> #milk - semen
++#<“û><20> #milk - semen
+ <”N—î”FØ><50> #age verification
+ <ƒAƒ_ƒ‹ƒg><50> #adult
+ 
+@@ -94,7 +96,7 @@
+ <ƒGƒ><50> #erotic/porn
+ <ƒƒŠƒRƒ“><50> #lolicon / lolita
+ 
+-<ŒŠ><10> #ass
++#<ŒŠ><10> #ass
+ <‹“û><50> #big chest/breasts
+ 
+ <’†o‚µ><60> #internal male ejaculation
+@@ -107,19 +109,19 @@
+ #<UTF-8><1>	#CharSet Identifier for Troubleshooting
+ 
+ <å°‘å¥³><50> #little woman (girl)
+-<å¥³><10> #woman
+-<ç¾Ž><5> #beauty
++#<å¥³><10> #woman
++#<ç¾Ž><5> #beauty
+ <è£¸><10> #nude
+ <è£¸ä½“><20> #nude
+ <èº«ä½“><10> #body
+-<èƒ¸><10> breast
++#<èƒ¸><10> breast
+ <å°‘å„¿ä¸å®œ><50> #children not allowed
+ <å†™çœŸé›†ãƒ»ç”»é›†><50> #fetish photos
+ 
+ <21æ­³ä»¥ä¸Š><100> #21 or older
+ <18æ­³ä»¥ä¸Š><100> #18 or older
+ <ã‚ªãƒŠãƒ‹ãƒ¼><100> #masturbation
+-<ä¹³><20> #milk - semen
++#<ä¹³><20> #milk - semen
+ <å¹´é½¢èªè¨¼><50> #age verification
+ <ã‚¢ãƒ€ãƒ«ãƒˆ><50> #adult
+ 
+@@ -175,7 +177,7 @@
+ <ã‚¨ãƒ­><50> #erotic/porn
+ <ãƒ­ãƒªã‚³ãƒ³><50> #lolicon / lolita
+ 
+-<ç©´><10> #ass
++#<ç©´><10> #ass
+ <å·¨ä¹³><50> #big chest/breasts
+ 
+ <ä¸­å‡ºã—><60> #internal male ejaculation
+@@ -188,21 +190,21 @@
+ #<EUC-JP><1>	#CharSet Identifier for Troubleshooting
+ 
+ <¾¯½÷><50> #little woman (girl)
+-<½÷><10> #woman
++#<½÷><10> #woman
+ <¥ª¥Ê¥Ë¡¼><250> #masturbation
+ <¥ª¥Ê¥><250> #masturbation
+-<Èþ><5> #beauty
++#<Èþ><5> #beauty
+ <Íç><10> #nude
+ <ÍçÂÎ><20> #nude
+ <¿ÈÂÎ><10> #body
+-<¶»><10> breast
++#<¶»><10> breast
+ <¾¯Ñ¹ÉÔµ¹><50> #children not allowed
+ <¼Ì¿¿½¸¡¦²è½¸><50> #fetish photos
+ 
+ <21ºÐ°Ê¾å><100> #21 or older
+ <18ºÐ°Ê¾å><100> #18 or older
+ 
+-<Æý><20> #milk - semen
++#<Æý><20> #milk - semen
+ <Ç¯ÎðÇ§¾Ú><50> #age verification
+ <¥¢¥À¥ë¥È><50> #adult
+ 
+@@ -217,7 +219,7 @@
+ <À­Íß><40> #sexual desire
+ <¥»¥Ã¥¯¥¹><50> #sex
+ <Ä¬¿á¤­><50> #female ejaculation
+-<¿¬><20> #buttocks
++#<¿¬><20> #buttocks
+ <½è½÷><30> #virgin
+ <¥·¥ç¥¿¥³¥ó><100> # fetish for underage boys
+ <½õÊ¿><50> #perverted, lecherous.
+@@ -258,7 +260,7 @@
+ <¥¨¥í><50> #erotic/porn
+ <¥í¥ê¥³¥ó><50> #lolicon / lolita
+ 
+-<·ê><10> #ass
++#<·ê><10> #ass
+ <µðÆý><50> #big chest/breasts
+ 
+ <Ãæ½Ð¤·><60> #internal male ejaculation

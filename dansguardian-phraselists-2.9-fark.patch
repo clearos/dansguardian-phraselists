@@ -1,0 +1,11 @@
+diff -rup dansguardian-phraselists-2.9/phraselists/pornography/weighted_malay dansguardian-phraselists-2.9-fark/phraselists/pornography/weighted_malay
+--- dansguardian-phraselists-2.9/phraselists/pornography/weighted_malay	2008-08-25 17:08:36.000000000 -0400
++++ dansguardian-phraselists-2.9-fark/phraselists/pornography/weighted_malay	2013-11-25 15:02:19.266909772 -0500
+@@ -21,7 +21,6 @@
+ <dubur><40>
+ <faraj><10>
+ <faraj>,<konek><120>
+-<fark><80>
+ <ghairah><10>
+ <ghairah>,<rangsang><50>
+ <kimak><80>
